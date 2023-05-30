@@ -6,6 +6,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+- :telescope: I am studying Web Development
+
+- :zap: In my free time, I learn some languages on my own.
 
 <!--
 **JairoMS27/JairoMS27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
