@@ -6,6 +6,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
+
+### :woman_technologist: About Me :
 - :telescope: I am studying Web Development
 
 - :zap: In my free time, I learn some languages on my own.
