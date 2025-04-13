@@ -1,39 +1,54 @@
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <img src="https://komarev.com/ghpvc/?username=jairoMS27&style=flat-square&color=blue" alt=""/>
-</h1>
+<h1 align="center">Hi there! I'm Jairo 👋</h1>
+
+<p align="center">
+  <strong>Web Developer | Tech enthusiast</strong><br/>
+  🌍 Languages: Spanish (native), English, Galician
+</p>
+
+---
+
+## 🧠 About Me
+
+- 💼 I'm a Web Developer focused on building modern and functional web applications.
+- 🧪 I love exploring new technologies and improving my skills continuously.
+- 🛠 I believe in: <i>"Make it work, make it pretty, make it fast."</i>
+
+---
+
+## 🔧 Tech Stack
+
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
-### About Me :
-- :telescope: I am studying Web Development
+## 🚀 Featured Projects
 
-- :zap: In my free time, I learn some languages on my own.
+### 🧠 [Nyxie](https://github.com/JairoMS27/Nyxie)
+> A dating web app for gamers. Features include Steam & AniList integration, premium cosmetics, and chat with swipe functionality.
+
+### 💾 [Multisaver](https://github.com/JairoMS27/multisaver)
+> Simple multiplatform tool to back up game saves. Lightweight and effective.
 
 ---
 
-### Languages and Tools :
+## 📈 GitHub Stats
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JairoMS27&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JairoMS27&theme=tokyonight&hide_border=true" width="400"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMS27&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
 </div>
 
 ---
 
-### My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JairoMS27&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMS27&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <i>“Make it work, make it pretty, make it fast.”</i>
+</p>
