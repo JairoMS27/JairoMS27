@@ -10,12 +10,12 @@
 ## 🧠 About Me
 
 - 💼 I'm a Web Developer focused on building modern and functional web applications.
-- 🧪 I love exploring new technologies and improving my skills continuously.
-- 🛠 I believe in: <i>"Make it work, make it pretty, make it fast."</i>
+- 📚 I enjoy learning new technologies and improving my skills continuously.
+- ⚡ I believe in: <i>"Make it work, make it pretty, make it fast."</i>
 
 ---
 
-## 🔧 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -30,25 +30,27 @@
 
 ## 🚀 Featured Projects
 
-### 🧠 [Nyxie](https://github.com/JairoMS27/Nyxie)
-> A dating web app for gamers. Features include Steam & AniList integration, premium cosmetics, and chat with swipe functionality.
+### 🤖 [Nyxie](https://github.com/JairoMS27/Nyxie)
+> Meet Nyxie — a multitasking Discord Bot with many features.
 
-### 💾 [Multisaver](https://github.com/JairoMS27/multisaver)
-> Simple multiplatform tool to back up game saves. Lightweight and effective.
+### 📥 [Multisaver](https://github.com/JairoMS27/multisaver)
+> MultiSaver is a fast, lightweight, and easy-to-use tool for downloading videos from multiple sources.  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JairoMS27&show_icons=true&theme=tokyonight&hide_border=true" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JairoMS27&theme=tokyonight&hide_border=true" width="400"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMS27&layout=compact&theme=tokyonight&hide_border=true" width="350"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=JairoMS27&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width="430" alt="GitHub stats"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JairoMS27&theme=graywhite&hide_border=true" width="430" alt="GitHub streak stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMS27&layout=compact&theme=graywhite&hide_border=true" width="350" alt="Top languages"/>
 </div>
 
 ---
 
 <p align="center">
-  <i>“Make it work, make it pretty, make it fast.”</i>
+  <i>"Make it work, make it pretty, make it fast."</i>
 </p>
