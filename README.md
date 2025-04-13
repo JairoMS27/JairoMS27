@@ -21,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
@@ -34,7 +33,7 @@
 > Meet Nyxie — a multitasking Discord Bot with many features.
 
 ### 📥 [Multisaver](https://github.com/JairoMS27/multisaver)
-> MultiSaver is a fast, lightweight, and easy-to-use tool for downloading videos from multiple sources.  
+> MultiSaver is a fast, lightweight, and easy-to-use tool for downloading videos from multiple sources.
 
 ---
 
@@ -42,11 +41,9 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=JairoMS27&show_icons=true&theme=graywhite&hide_border=true&count_private=true" width="430" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JairoMS27&show_icons=true&theme=radical&hide_border=true&count_private=true" width="430" alt="GitHub stats"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JairoMS27&theme=graywhite&hide_border=true" width="430" alt="GitHub streak stats"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMS27&layout=compact&theme=graywhite&hide_border=true" width="350" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMS27&layout=compact&theme=radical&hide_border=true" width="350" alt="Top languages"/>
 </div>
 
 ---
