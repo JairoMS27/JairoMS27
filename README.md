@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Web Developer | Tech enthusiast</strong><br/>
-  🌍 Languages: Spanish (native), English, Galician
+  🌍 Languages: Spanish (native), Galician
 </p>
 
 ---
