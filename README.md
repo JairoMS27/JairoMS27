@@ -48,15 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JairoMS27&show_icons=true&theme=radical&hide_border=true&count_private=true" width="430" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JairoMS27&layout=compact&theme=radical&hide_border=true" width="350" alt="Top languages"/>
-</div>
-
----
-
 <p align="center">
   <i>"Make it work, make it pretty, make it fast."</i>
 </p>
